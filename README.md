@@ -14,10 +14,10 @@ Welcome to the Multithreading Steel Ball Run! This program simulates a horse rac
 To compile the program, you will need a C++ compiler like `g++`. Use the following command in your terminal:
 
 ```bash
-g++ -o horse_race main.cpp -lpthread
+g++ -o horse_race main.cpp
 ```
 
-Replace `main.cpp` with the name of your source file if it's different. The `-lpthread` flag links the pthread library, which is necessary for multithreading support.
+Replace `main.cpp` with the name of your source file if it's different.
 
 ## Usage
 
